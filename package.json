@@ -17,6 +17,7 @@
   },
   "scripts": {
     "start": "ts-node ./jade-dev",
+    "build": "ts-node ./build.ts",
     "postinstall": "typings install"
   }
 }

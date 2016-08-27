@@ -1,6 +1,8 @@
 
+type ID = string
+
 export interface DataSponsor {
-  name: string
+  name: ID
   letters: string
   twitter: string
   nickname?: string
@@ -8,7 +10,7 @@ export interface DataSponsor {
 }
 
 export interface DataEvent {
-  sponsor: DataSponsor
+  sponsor: ID
   description: string
   startTime: number
   endTime?: number
@@ -17,4 +19,9 @@ export interface DataEvent {
   meetTime?: number
   meetLocation?: string
   meetLocationAddress?: string
+}
+
+export interface DataSummary {
+  sponsors: { [name: string]: DataSponsor },
+  events: DataEvent[]
 }

@@ -1,0 +1,225 @@
+{
+  "sponsors": {
+    "Phi Delta Theta": {
+      "name": "Phi Delta Theta",
+      "letters": "ΦΔϴ",
+      "nickname": "Phi Delt",
+      "twitter": "mostatephidelt",
+      "colors": null
+    },
+    "Phi Gamma Delta": {
+      "name": "Phi Gamma Delta",
+      "letters": "ΦΓΔ",
+      "nickname": "FIJI",
+      "twitter": "mostatephidelt",
+      "colors": null
+    },
+    "Pi Kappa Phi": {
+      "name": "Pi Kappa Phi",
+      "letters": "ΠKΦ",
+      "nickname": "PiKapp",
+      "twitter": "mostatephidelt",
+      "colors": null
+    }
+  },
+  "events": [
+    {
+      "sponsor": "Phi Delta Theta",
+      "description": "Food Truck Night",
+      "startTime": 1472504400000,
+      "endTime": 1472518800000,
+      "location": "Phi Delt House",
+      "locationAddress": "1107 East Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Phi Delta Theta",
+      "description": "Casino night",
+      "startTime": 1472598000000,
+      "endTime": 1472608800000,
+      "location": "Phi Delt House",
+      "locationAddress": "1107 East Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Phi Delta Theta",
+      "description": "Bubble Soccer",
+      "startTime": 1472680800000,
+      "endTime": 1472688000000,
+      "location": "Rec Fields",
+      "locationAddress": "",
+      "meetTime": 1472679000000,
+      "meetLocation": "Phi Delt House",
+      "meetLocationAddress": "1107 East Elm Street"
+    },
+    {
+      "sponsor": "Phi Delta Theta",
+      "description": "Pre-Tailgate BBQ",
+      "startTime": 1472760000000,
+      "endTime": null,
+      "location": "Phi Delt House",
+      "locationAddress": "1107 East Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Phi Gamma Delta",
+      "description": "BBQ",
+      "startTime": 1472508000000,
+      "endTime": null,
+      "location": "FIJI House",
+      "locationAddress": "949 E Elm St",
+      "meetTime": null
+    },
+    {
+      "sponsor": "Phi Gamma Delta",
+      "description": "Bowling (Meet at 5pm)",
+      "startTime": 1472594400000,
+      "endTime": null,
+      "location": "FIJI House",
+      "locationAddress": "949 E Elm St",
+      "meetTime": null
+    },
+    {
+      "sponsor": "Phi Gamma Delta",
+      "description": "Noodle Hockey (Meet at 5pm)",
+      "startTime": 1472680800000,
+      "endTime": null,
+      "location": "FIJI House",
+      "locationAddress": "949 E Elm St",
+      "meetTime": null
+    },
+    {
+      "sponsor": "Phi Gamma Delta",
+      "description": "BBQ",
+      "startTime": 1473109200000,
+      "endTime": null,
+      "location": "FIJI House",
+      "locationAddress": "949 E Elm St",
+      "meetTime": null
+    },
+    {
+      "sponsor": "Phi Gamma Delta",
+      "description": "Convoy of Hope (Meet at 4pm)",
+      "startTime": 1473200100000,
+      "endTime": null,
+      "location": "FIJI House",
+      "locationAddress": "949 E Elm St",
+      "meetTime": null
+    },
+    {
+      "sponsor": "Phi Gamma Delta",
+      "description": "Field Day with Sig Ep",
+      "startTime": 1473282000000,
+      "endTime": null,
+      "location": "Taco Bell Fields",
+      "locationAddress": "",
+      "meetTime": null
+    },
+    {
+      "sponsor": "Phi Gamma Delta",
+      "description": "Dinner at Ebbett's (Meet at 5pm)",
+      "startTime": 1473372000000,
+      "endTime": null,
+      "location": "FIJI House",
+      "locationAddress": "949 E Elm St",
+      "meetTime": null
+    },
+    {
+      "sponsor": "Phi Gamma Delta",
+      "description": "Invite Only Dinner",
+      "startTime": 1473458400000,
+      "endTime": null,
+      "location": "FIJI House",
+      "locationAddress": "949 E Elm St",
+      "meetTime": null
+    },
+    {
+      "sponsor": "Pi Kappa Phi",
+      "description": "Rootbeer Keggar",
+      "startTime": 1472504400000,
+      "endTime": null,
+      "location": "Pi Kapp House",
+      "locationAddress": "1040 East Elm Street",
+      "meetTime": null
+    },
+    {
+      "sponsor": "Pi Kappa Phi",
+      "description": "Glow in the dark capture the flag",
+      "startTime": 1472607000000,
+      "endTime": null,
+      "location": "Pi Kapp House",
+      "locationAddress": "1040 East Elm Street",
+      "meetTime": null
+    },
+    {
+      "sponsor": "Pi Kappa Phi",
+      "description": "mini golf",
+      "startTime": 1472684400000,
+      "endTime": null,
+      "location": "Pi Kapp House",
+      "locationAddress": "1040 East Elm Street",
+      "meetTime": null
+    },
+    {
+      "sponsor": "Pi Kappa Phi",
+      "description": "\"BBQ",
+      "startTime": 1472767200000,
+      "endTime": null,
+      "location": "Pi Kapp House",
+      "locationAddress": "1040 East Elm Street",
+      "meetTime": null,
+      "meetLocation": " Yard Games\""
+    },
+    {
+      "sponsor": "Pi Kappa Phi",
+      "description": "Boys and Girls Club service",
+      "startTime": 1472853600000,
+      "endTime": null,
+      "location": "Pi Kapp House",
+      "locationAddress": "1040 East Elm Street",
+      "meetTime": null
+    },
+    {
+      "sponsor": "Pi Kappa Phi",
+      "description": "Game Night",
+      "startTime": 1472943600000,
+      "endTime": null,
+      "location": "Pi Kapp House",
+      "locationAddress": "1040 East Elm Street",
+      "meetTime": null
+    },
+    {
+      "sponsor": "Pi Kappa Phi",
+      "description": "Sports Night",
+      "startTime": 1473202800000,
+      "endTime": null,
+      "location": "Pi Kapp House",
+      "locationAddress": "1040 East Elm Street",
+      "meetTime": null
+    },
+    {
+      "sponsor": "Pi Kappa Phi",
+      "description": "Buffalo Wild Wings (Invite Only)",
+      "startTime": 1473289200000,
+      "endTime": null,
+      "location": "Pi Kapp House",
+      "locationAddress": "1040 East Elm Street",
+      "meetTime": null
+    },
+    {
+      "sponsor": "Pi Kappa Phi",
+      "description": "Broomball",
+      "startTime": 1473372000000,
+      "endTime": null,
+      "location": "Pi Kapp House",
+      "locationAddress": "1040 East Elm Street",
+      "meetTime": null
+    }
+  ]
+}

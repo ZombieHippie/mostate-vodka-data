@@ -1,6 +1,6 @@
 /// <reference path="typings/index.d.ts" />
 
-import { DataSponsor, DataEvent } from './data-interfaces'
+import { DataSponsor, DataEvent, DataSummary } from './data-interfaces'
 import fs = require('fs')
 const moment = require('moment')
 
@@ -33,7 +33,7 @@ function splitEventData (str, sponsor: DataSponsor): DataEvent {
   const meetTime = isInt(timeMeet) ? setTime(momentDate, timeMeet) : null
 
   let evt: DataEvent = {
-    sponsor,
+    sponsor: sponsor.name,
     description,
     startTime,
     endTime,
@@ -46,7 +46,7 @@ function splitEventData (str, sponsor: DataSponsor): DataEvent {
   return evt;
 }
 
-function extractEvents (fileContents): DataEvent[]  {
+function extractEvents (fileContents, dataSummary: DataSummary)  {
   const [, sponsorData,, ...eventsData] = fileContents.split(/\s*\n\s*/g)
   console.log("# Sponsor", sponsorData)
 
@@ -66,16 +66,20 @@ function extractEvents (fileContents): DataEvent[]  {
 
   let events = eventsData.map((evString) => splitEventData(evString, sponsor))
 
-  return events
+  // modify dataSummary
+  dataSummary.events.push(...events)
+  dataSummary.sponsors[sponsor.name] = sponsor
 }
 
-export function create (done: (error, events: DataEvent[]) => any) {
-	let data: DataEvent[] = []
+export function create (done: (error, events: DataSummary) => any) {
+	let dataSummary: DataSummary = {
+    sponsors: {},
+    events: []
+  }
 
   fs.readdirSync('./data')
-    .map((bn) => fs.readFileSync(`./data/${bn}`, 'utf8')) // get file contents
-    .map(extractEvents)                                   // map to events
-    .forEach((ev) => ev.forEach((evt) => data.push(evt))) // push each to results
+    .map((bn) => fs.readFileSync(`./data/${bn}`, 'utf8'))    // get file contents
+    .forEach((evfile) => extractEvents(evfile, dataSummary)) // map to events
 
-	done(null, data)
+	done(null, dataSummary)
 }
