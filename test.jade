@@ -1,0 +1,11 @@
+head
+  link(href="./bootstrap.min.css" rel="stylesheet")
+  meta(charset="UTF-8")
+  style.
+    pre.error { border-left: solid red 2px; }
+body
+  .container
+    if error
+      pre.error= error
+    h2 Events
+    pre= JSON.stringify(events, null, 2)

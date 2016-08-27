@@ -1,6 +1,6 @@
 {
-  "name": "planner-generator",
-  "description": "A dynamic planner generating suite of snippets and code.",
+  "name": "mostate-rush",
+  "description": "A dynamic sortable rush calendar.",
   "version": "0.0.1",
   "author": "Cole Lawrence (@ZombieHippie)",
   "private": true,
@@ -9,11 +9,14 @@
     "url": "https://github.com/ZombieHippie/planner-generator.git"
   },
   "dependencies": {
+    "moment": "~2.8",
     "node-static": "~0.7",
-    "jade": "~1.4",
-    "moment": "~2.8"
+    "pug": "^2.0.0-beta6",
+    "ts-node": "^1.3.0",
+    "typings": "^1.3.3"
   },
   "scripts": {
-    "start": "node ./jade-dev"
+    "start": "ts-node ./jade-dev",
+    "postinstall": "typings install"
   }
 }
