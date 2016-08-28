@@ -88,18 +88,20 @@
       "locationAddress": "1043 East Cherry Street",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Campus Link"
     },
     {
       "sponsor": "Alpha Kappa Lambda",
-      "description": "Sports Night ( Football; Soccer; Basketball)",
+      "description": "Sports Night (Football Soccer Basketball)",
       "startTime": 1472596200000,
       "endTime": 1472603400000,
       "location": "Taco Bell Fields",
       "locationAddress": "1140 E Harrison St",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Campus Link"
     },
     {
       "sponsor": "Alpha Kappa Lambda",
@@ -110,7 +112,8 @@
       "locationAddress": "69300 East Nee Road Quapaw; OK 74363",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Campus Link"
     },
     {
       "sponsor": "Alpha Kappa Lambda",
@@ -121,18 +124,20 @@
       "locationAddress": " 853 N Glenstone Ave",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Campus Link"
     },
     {
       "sponsor": "Alpha Kappa Lambda",
-      "description": "Video Game Night( Madden; FIFA; and 2K Tournament )",
+      "description": "Video Game Night (Madden; FIFA; and 2K Tournament)",
       "startTime": 1473292800000,
       "endTime": 1473300000000,
       "location": "Alpha Kappa Lambda House",
       "locationAddress": "1043 East Cherry Street",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Campus Link"
     },
     {
       "sponsor": "Campus Sports",
@@ -143,7 +148,8 @@
       "locationAddress": "945 E Madison St",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "http://calendar.missouristate.edu/event/93027/171038"
     },
     {
       "sponsor": "Campus Sports",
@@ -154,7 +160,8 @@
       "locationAddress": "945 E Madison St",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "http://calendar.missouristate.edu/event/93027/171038"
     },
     {
       "sponsor": "Campus Sports",
@@ -165,7 +172,8 @@
       "locationAddress": "945 E Madison St",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "http://calendar.missouristate.edu/event/93027/171038"
     },
     {
       "sponsor": "Campus Sports",
@@ -176,7 +184,8 @@
       "locationAddress": "1015 E Grand St",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "http://calendar.missouristate.edu/event/92248/169690"
     },
     {
       "sponsor": "Campus Sports",
@@ -187,7 +196,8 @@
       "locationAddress": "685 S John Q Hammons Pkwy",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "http://calendar.missouristate.edu/event/92255/169697"
     },
     {
       "sponsor": "Campus Sports",
@@ -198,7 +208,8 @@
       "locationAddress": "830 E. Bear Blvd",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "http://calendar.missouristate.edu/event/92259/169701"
     },
     {
       "sponsor": "Campus Sports",
@@ -209,7 +220,8 @@
       "locationAddress": "685 S John Q Hammons Pkwy",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "http://calendar.missouristate.edu/event/92258/169700"
     },
     {
       "sponsor": "Campus Sports",
@@ -220,7 +232,8 @@
       "locationAddress": "685 S John Q Hammons Pkwy",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "http://calendar.missouristate.edu/event/92260/169702"
     },
     {
       "sponsor": "Campus Sports",
@@ -231,7 +244,8 @@
       "locationAddress": "685 John Q Hammons Pkwy",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "http://calendar.missouristate.edu/event/92262/169704"
     },
     {
       "sponsor": "Delta Chi",
@@ -242,7 +256,8 @@
       "locationAddress": "1131 E Elm Street",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "https://www.facebook.com/Missouri-State-Delta-Chi-139898912720876/"
     },
     {
       "sponsor": "Delta Chi",
@@ -253,7 +268,8 @@
       "locationAddress": "1140 E Harrison St. ",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "https://www.facebook.com/Missouri-State-Delta-Chi-139898912720876/"
     },
     {
       "sponsor": "Delta Chi",
@@ -264,7 +280,8 @@
       "locationAddress": "1131 E Elm Street",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "https://www.facebook.com/Missouri-State-Delta-Chi-139898912720876/"
     },
     {
       "sponsor": "Delta Chi",
@@ -275,7 +292,8 @@
       "locationAddress": "330 S Patterson Ave",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "https://www.facebook.com/Missouri-State-Delta-Chi-139898912720876/"
     },
     {
       "sponsor": "Delta Chi",
@@ -286,7 +304,8 @@
       "locationAddress": "950 E Bennet St.  ",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "https://www.facebook.com/Missouri-State-Delta-Chi-139898912720876/"
     },
     {
       "sponsor": "Delta Sigma Phi",
@@ -297,7 +316,8 @@
       "locationAddress": "1140 E Harrison St",
       "meetTime": 1472521200000,
       "meetLocation": "PSU Bear Statue",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Delta Sigma Phi Card"
     },
     {
       "sponsor": "Delta Sigma Phi",
@@ -308,7 +328,8 @@
       "locationAddress": "635 E Trafficway St",
       "meetTime": 1472694000000,
       "meetLocation": "PSU Bear Statue",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Delta Sigma Phi Card"
     },
     {
       "sponsor": "Delta Sigma Phi",
@@ -319,7 +340,8 @@
       "locationAddress": "887 S Kings",
       "meetTime": 1473208800000,
       "meetLocation": "PSU Bear Statue",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Delta Sigma Phi Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -330,7 +352,8 @@
       "locationAddress": "800 S National Ave",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -341,7 +364,8 @@
       "locationAddress": "2025 W Sunshine St",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -352,7 +376,8 @@
       "locationAddress": "800 S National Ave",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -363,7 +388,8 @@
       "locationAddress": "1140 E Harrison St",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -374,7 +400,8 @@
       "locationAddress": "731 Bear Blvd",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -385,7 +412,8 @@
       "locationAddress": "800 S National Ave",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -396,7 +424,8 @@
       "locationAddress": "1140 E Harrison St",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -407,7 +436,8 @@
       "locationAddress": "2500 S Campbell",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -418,7 +448,8 @@
       "locationAddress": "800 S National Ave",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -429,7 +460,8 @@
       "locationAddress": "800 S National Ave",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Kappa Sigma Card"
     },
     {
       "sponsor": "Phi Delta Theta",
@@ -440,7 +472,8 @@
       "locationAddress": "1107 East Elm Street",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "?"
     },
     {
       "sponsor": "Phi Delta Theta",
@@ -451,7 +484,8 @@
       "locationAddress": "1107 East Elm Street",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Phi Delta Theta Card"
     },
     {
       "sponsor": "Phi Delta Theta",
@@ -462,7 +496,8 @@
       "locationAddress": "1107 East Elm Street",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Phi Delta Theta Card"
     },
     {
       "sponsor": "Phi Delta Theta",
@@ -473,7 +508,8 @@
       "locationAddress": "1140 E Harrison St",
       "meetTime": 1472679000000,
       "meetLocation": "Phi Delt House",
-      "meetLocationAddress": "1107 East Elm Street"
+      "meetLocationAddress": "1107 East Elm Street",
+      "source": "Phi Delta Theta Card"
     },
     {
       "sponsor": "Phi Delta Theta",
@@ -484,7 +520,8 @@
       "locationAddress": "1107 East Elm Street",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Phi Delta Theta Card"
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -495,7 +532,8 @@
       "locationAddress": "949 E Elm St",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Phi Gamma Delta Card"
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -506,7 +544,8 @@
       "locationAddress": "949 E Elm St",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Phi Gamma Delta Card"
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -517,7 +556,8 @@
       "locationAddress": "949 E Elm St",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Phi Gamma Delta Card"
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -528,7 +568,8 @@
       "locationAddress": "949 E Elm St",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Phi Gamma Delta Card"
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -539,7 +580,8 @@
       "locationAddress": "",
       "meetTime": 1473200100000,
       "meetLocation": "FIJI House",
-      "meetLocationAddress": "949 E Elm St"
+      "meetLocationAddress": "949 E Elm St",
+      "source": "Phi Gamma Delta Card"
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -550,7 +592,8 @@
       "locationAddress": "1140 E Harrison St",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Phi Gamma Delta Card"
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -561,7 +604,8 @@
       "locationAddress": "949 E Elm St",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Phi Gamma Delta Card"
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -572,7 +616,8 @@
       "locationAddress": "949 E Elm St",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Phi Gamma Delta Card"
     },
     {
       "sponsor": "Pi Kappa Alpha",
@@ -583,7 +628,8 @@
       "locationAddress": "825 S National Ave",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "MSU_Pikes"
     },
     {
       "sponsor": "Pi Kappa Alpha",
@@ -594,7 +640,8 @@
       "locationAddress": "1117 E Elm St.",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "MSU_Pikes"
     },
     {
       "sponsor": "Pi Kappa Alpha",
@@ -605,7 +652,8 @@
       "locationAddress": "1140 E Harrison St",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "MSU_Pikes"
     },
     {
       "sponsor": "Pi Kappa Alpha",
@@ -616,7 +664,8 @@
       "locationAddress": "1117 E Elm St.",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "MSU_Pikes"
     },
     {
       "sponsor": "Pi Kappa Alpha",
@@ -627,7 +676,8 @@
       "locationAddress": "",
       "meetTime": 1473201000000,
       "meetLocation": "Pike House",
-      "meetLocationAddress": "1117 E Elm St."
+      "meetLocationAddress": "1117 E Elm St.",
+      "source": "MSU_Pikes"
     },
     {
       "sponsor": "Pi Kappa Alpha",
@@ -638,7 +688,8 @@
       "locationAddress": "1110 E Madison St.",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "MSU_Pikes"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -649,7 +700,8 @@
       "locationAddress": "1040 East Elm Street",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Pi Kappa Phi Card"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -660,7 +712,8 @@
       "locationAddress": "1040 East Elm Street",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Pi Kappa Phi Card"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -671,7 +724,8 @@
       "locationAddress": "1040 East Elm Street",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Pi Kappa Phi Card"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -682,7 +736,8 @@
       "locationAddress": "1040 East Elm Street",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Pi Kappa Phi Card"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -693,7 +748,8 @@
       "locationAddress": "1040 East Elm Street",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Pi Kappa Phi Card"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -704,7 +760,8 @@
       "locationAddress": "1040 East Elm Street",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Pi Kappa Phi Card"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -715,7 +772,8 @@
       "locationAddress": "1040 East Elm Street",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Pi Kappa Phi Card"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -726,7 +784,8 @@
       "locationAddress": "1040 East Elm Street",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Pi Kappa Phi Card"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -737,7 +796,8 @@
       "locationAddress": "1040 East Elm Street",
       "meetTime": null,
       "meetLocation": "",
-      "meetLocationAddress": ""
+      "meetLocationAddress": "",
+      "source": "Pi Kappa Phi Card"
     },
     {
       "sponsor": "Sigma Nu",
@@ -748,7 +808,8 @@
       "locationAddress": "1116 E Elm",
       "meetTime": 1472445000000,
       "meetLocation": "Sig Nu House",
-      "meetLocationAddress": "1116 E Elm"
+      "meetLocationAddress": "1116 E Elm",
+      "source": "Sigma Nu Card"
     },
     {
       "sponsor": "Sigma Nu",
@@ -759,7 +820,8 @@
       "locationAddress": "1140 E Harrison St",
       "meetTime": 1472509800000,
       "meetLocation": "Sig Nu House",
-      "meetLocationAddress": "1116 E Elm"
+      "meetLocationAddress": "1116 E Elm",
+      "source": "Sigma Nu Card"
     },
     {
       "sponsor": "Sigma Nu",
@@ -770,7 +832,8 @@
       "locationAddress": "731 Bear Blvd",
       "meetTime": 1472596200000,
       "meetLocation": "Sig Nu House",
-      "meetLocationAddress": "1116 E Elm"
+      "meetLocationAddress": "1116 E Elm",
+      "source": "Sigma Nu Card"
     },
     {
       "sponsor": "Sigma Nu",
@@ -781,7 +844,8 @@
       "locationAddress": "635 E Trafficway",
       "meetTime": 1472693400000,
       "meetLocation": "Sig Nu House",
-      "meetLocationAddress": "1116 E Elm"
+      "meetLocationAddress": "1116 E Elm",
+      "source": "Sigma Nu Card"
     },
     {
       "sponsor": "Sigma Nu",
@@ -792,7 +856,8 @@
       "locationAddress": "887 S Kings",
       "meetTime": 1472761800000,
       "meetLocation": "Sig Nu House",
-      "meetLocationAddress": "1116 E Elm"
+      "meetLocationAddress": "1116 E Elm",
+      "source": "Sigma Nu Card"
     },
     {
       "sponsor": "Sigma Nu",
@@ -803,7 +868,8 @@
       "locationAddress": "Missouri",
       "meetTime": 1472826600000,
       "meetLocation": "Sig Nu House",
-      "meetLocationAddress": "1116 E Elm"
+      "meetLocationAddress": "1116 E Elm",
+      "source": "Sigma Nu Card"
     },
     {
       "sponsor": "Sigma Nu",
@@ -814,7 +880,8 @@
       "locationAddress": "1132 E Madison",
       "meetTime": 1473114600000,
       "meetLocation": "Sig Nu House",
-      "meetLocationAddress": "1116 E Elm"
+      "meetLocationAddress": "1116 E Elm",
+      "source": "Sigma Nu Card"
     },
     {
       "sponsor": "Sigma Nu",
@@ -825,7 +892,8 @@
       "locationAddress": "1116 E Elm",
       "meetTime": 1473201000000,
       "meetLocation": "Sig Nu House",
-      "meetLocationAddress": "1116 E Elm"
+      "meetLocationAddress": "1116 E Elm",
+      "source": "Sigma Nu Card"
     },
     {
       "sponsor": "Sigma Nu",
@@ -836,7 +904,8 @@
       "locationAddress": "1116 E Elm",
       "meetTime": 1473373800000,
       "meetLocation": "Sig Nu House",
-      "meetLocationAddress": "1116 E Elm"
+      "meetLocationAddress": "1116 E Elm",
+      "source": "Sigma Nu Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -847,7 +916,8 @@
       "locationAddress": "",
       "meetTime": 1472445900000,
       "meetLocation": "Theta Chi House",
-      "meetLocationAddress": "1146 E Cherry St."
+      "meetLocationAddress": "1146 E Cherry St.",
+      "source": "Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -858,7 +928,8 @@
       "locationAddress": "",
       "meetTime": 1472517900000,
       "meetLocation": "Theta Chi House",
-      "meetLocationAddress": "1146 E Cherry St."
+      "meetLocationAddress": "1146 E Cherry St.",
+      "source": "Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -869,7 +940,8 @@
       "locationAddress": "1146 E Cherry St.",
       "meetTime": 1472597100000,
       "meetLocation": "Theta Chi House",
-      "meetLocationAddress": "1146 E Cherry St."
+      "meetLocationAddress": "1146 E Cherry St.",
+      "source": "Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -880,7 +952,8 @@
       "locationAddress": "1146 E Cherry St.",
       "meetTime": 1472687100000,
       "meetLocation": "Theta Chi House",
-      "meetLocationAddress": "1146 E Cherry St."
+      "meetLocationAddress": "1146 E Cherry St.",
+      "source": "Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -891,7 +964,8 @@
       "locationAddress": "",
       "meetTime": 1472766300000,
       "meetLocation": "Theta Chi House",
-      "meetLocationAddress": "1146 E Cherry St."
+      "meetLocationAddress": "1146 E Cherry St.",
+      "source": "Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -902,7 +976,8 @@
       "locationAddress": "69300 East Nee Road Quapaw; OK 74363",
       "meetTime": 1472863500000,
       "meetLocation": "Theta Chi House",
-      "meetLocationAddress": "1146 E Cherry St."
+      "meetLocationAddress": "1146 E Cherry St.",
+      "source": "Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -913,7 +988,8 @@
       "locationAddress": "",
       "meetTime": 1472928300000,
       "meetLocation": "Theta Chi House",
-      "meetLocationAddress": "1146 E Cherry St."
+      "meetLocationAddress": "1146 E Cherry St.",
+      "source": "Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -924,7 +1000,8 @@
       "locationAddress": "1146 E Cherry St.",
       "meetTime": null,
       "meetLocation": "Theta Chi House",
-      "meetLocationAddress": "1146 E Cherry St."
+      "meetLocationAddress": "1146 E Cherry St.",
+      "source": "Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -935,7 +1012,8 @@
       "locationAddress": "",
       "meetTime": 1473111900000,
       "meetLocation": "Theta Chi House",
-      "meetLocationAddress": "1146 E Cherry St."
+      "meetLocationAddress": "1146 E Cherry St.",
+      "source": "Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -946,7 +1024,8 @@
       "locationAddress": "1146 E Cherry St.",
       "meetTime": 1473209100000,
       "meetLocation": "Theta Chi House",
-      "meetLocationAddress": "1146 E Cherry St."
+      "meetLocationAddress": "1146 E Cherry St.",
+      "source": "Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -957,7 +1036,8 @@
       "locationAddress": "",
       "meetTime": 1473275700000,
       "meetLocation": "Theta Chi House",
-      "meetLocationAddress": "1146 E Cherry St."
+      "meetLocationAddress": "1146 E Cherry St.",
+      "source": "Theta Chi Card"
     }
   ]
 }
