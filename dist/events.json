@@ -52,7 +52,7 @@
     "Pi Kappa Alpha": {
       "name": "Pi Kappa Alpha",
       "letters": "ΠΚΑ",
-      "nickname": "pike",
+      "nickname": "Pike",
       "twitter": "MSU_Pikes",
       "colors": null
     },
@@ -67,7 +67,7 @@
       "name": "Sigma Nu",
       "letters": "ΣΝ",
       "nickname": "Sig Nu",
-      "twitter": "@MSUSimgaNu",
+      "twitter": "@MSUSigmaNu",
       "colors": null
     },
     "Theta Chi": {
@@ -92,13 +92,24 @@
     },
     {
       "sponsor": "Alpha Kappa Lambda",
-      "description": "\"Sports Night ( Football",
+      "description": "Sports Night ( Football; Soccer; Basketball)",
       "startTime": 1472596200000,
       "endTime": 1472603400000,
       "location": "Taco Bell Fields",
       "locationAddress": "1140 E Harrison St",
       "meetTime": null,
-      "meetLocation": " Basketball)\"",
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Alpha Kappa Lambda",
+      "description": "Casino Night",
+      "startTime": 1473127200000,
+      "endTime": 1473134400000,
+      "location": "Downstream Casino",
+      "locationAddress": "69300 East Nee Road Quapaw; OK 74363",
+      "meetTime": null,
+      "meetLocation": "",
       "meetLocationAddress": ""
     },
     {
@@ -114,55 +125,11 @@
     },
     {
       "sponsor": "Alpha Kappa Lambda",
-      "description": "\"Video Game Night( Madden",
+      "description": "Video Game Night( Madden; FIFA; and 2K Tournament )",
       "startTime": 1473292800000,
       "endTime": 1473300000000,
       "location": "Alpha Kappa Lambda House",
       "locationAddress": "1043 East Cherry Street",
-      "meetTime": null,
-      "meetLocation": " and 2K Tournament )\"",
-      "meetLocationAddress": ""
-    },
-    {
-      "sponsor": "Alpha Kappa Lambda",
-      "description": "",
-      "startTime": null,
-      "endTime": null,
-      "location": "",
-      "locationAddress": "",
-      "meetTime": null,
-      "meetLocation": "",
-      "meetLocationAddress": ""
-    },
-    {
-      "sponsor": "Alpha Kappa Lambda",
-      "description": "",
-      "startTime": null,
-      "endTime": null,
-      "location": "",
-      "locationAddress": "",
-      "meetTime": null,
-      "meetLocation": "",
-      "meetLocationAddress": ""
-    },
-    {
-      "sponsor": "Alpha Kappa Lambda",
-      "description": "Bowling Night",
-      "startTime": 1472684400000,
-      "endTime": 1472691600000,
-      "location": "",
-      "locationAddress": "",
-      "meetTime": null,
-      "meetLocation": "",
-      "meetLocationAddress": ""
-    },
-    {
-      "sponsor": "Alpha Kappa Lambda",
-      "description": "Casino Night",
-      "startTime": 1473127200000,
-      "endTime": 1473134400000,
-      "location": "",
-      "locationAddress": "",
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": ""
@@ -951,8 +918,8 @@
     {
       "sponsor": "Theta Chi",
       "description": "Open House",
-      "startTime": null,
-      "endTime": null,
+      "startTime": 1473001200000,
+      "endTime": 1473040800000,
       "location": "",
       "locationAddress": "1146 E Cherry St.",
       "meetTime": null,
