@@ -1,5 +1,19 @@
 {
   "sponsors": {
+    "Alpha Kappa Lambda": {
+      "name": "Alpha Kappa Lambda",
+      "letters": "ΑΚΛ",
+      "nickname": "AKL",
+      "twitter": "@AKLBetaPsiMSU",
+      "colors": null
+    },
+    "Delta Chi": {
+      "name": "Delta Chi",
+      "letters": "ΔΧ",
+      "nickname": "D-Chi",
+      "twitter": "DeltaChiMSU",
+      "colors": null
+    },
     "Delta Sigma Phi": {
       "name": "Delta Sigma Phi",
       "letters": "ΔΣΦ",
@@ -28,6 +42,13 @@
       "twitter": "@MoState_FIJI",
       "colors": null
     },
+    "Pi Kappa Alpha": {
+      "name": "Pi Kappa Alpha",
+      "letters": "ΠΚΑ",
+      "nickname": "pike",
+      "twitter": "MSU_Pikes",
+      "colors": null
+    },
     "Pi Kappa Phi": {
       "name": "Pi Kappa Phi",
       "letters": "ΠKΦ",
@@ -44,6 +65,149 @@
     }
   },
   "events": [
+    {
+      "sponsor": "Alpha Kappa Lambda",
+      "description": "Meet and Greet",
+      "startTime": 1472511600000,
+      "endTime": 1472518800000,
+      "location": "Alpha Kappa Lambda House",
+      "locationAddress": "1043 East Cherry Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Alpha Kappa Lambda",
+      "description": "\"Sports Night ( Football",
+      "startTime": 1472596200000,
+      "endTime": 1472603400000,
+      "location": "Taco Bell Fields",
+      "locationAddress": "1140 E Harrison St",
+      "meetTime": null,
+      "meetLocation": " Basketball)\"",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Alpha Kappa Lambda",
+      "description": "Taco Tuesday",
+      "startTime": 1473202800000,
+      "endTime": 1473210000000,
+      "location": "Jose Locus",
+      "locationAddress": " 853 N Glenstone Ave",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Alpha Kappa Lambda",
+      "description": "\"Video Game Night( Madden",
+      "startTime": 1473292800000,
+      "endTime": 1473300000000,
+      "location": "Alpha Kappa Lambda House",
+      "locationAddress": "1043 East Cherry Street",
+      "meetTime": null,
+      "meetLocation": " and 2K Tournament )\"",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Alpha Kappa Lambda",
+      "description": "",
+      "startTime": null,
+      "endTime": null,
+      "location": "",
+      "locationAddress": "",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Alpha Kappa Lambda",
+      "description": "",
+      "startTime": null,
+      "endTime": null,
+      "location": "",
+      "locationAddress": "",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Alpha Kappa Lambda",
+      "description": "Bowling Night",
+      "startTime": 1472684400000,
+      "endTime": 1472691600000,
+      "location": "",
+      "locationAddress": "",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Alpha Kappa Lambda",
+      "description": "Casino Night",
+      "startTime": 1473127200000,
+      "endTime": 1473134400000,
+      "location": "",
+      "locationAddress": "",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Delta Chi",
+      "description": "Open House",
+      "startTime": 1472509800000,
+      "endTime": 1472517000000,
+      "location": "Delta Chi House",
+      "locationAddress": "1131 E Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Delta Chi",
+      "description": "Sand Volleyball",
+      "startTime": 1472601600000,
+      "endTime": 1472608800000,
+      "location": "Taco Bell Fields",
+      "locationAddress": "1140 E Harrison St. ",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Delta Chi",
+      "description": "BBQ",
+      "startTime": 1472769000000,
+      "endTime": 1472776200000,
+      "location": "Delta Chi House",
+      "locationAddress": "1131 E Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Delta Chi",
+      "description": "Community Service",
+      "startTime": 1473201000000,
+      "endTime": 1473211800000,
+      "location": "",
+      "locationAddress": "330 S Patterson Ave",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Delta Chi",
+      "description": "Day at the Park",
+      "startTime": 1473375600000,
+      "endTime": 1473382800000,
+      "location": "Phelps Grove Park",
+      "locationAddress": "950 E Bennet St.  ",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
     {
       "sponsor": "Delta Sigma Phi",
       "description": "Slip 'n N Kick'n (Meet at 8:40pm)",
@@ -326,6 +490,72 @@
       "endTime": null,
       "location": "FIJI House",
       "locationAddress": "949 E Elm St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Pi Kappa Alpha",
+      "description": "FLOW",
+      "startTime": 1472313600000,
+      "endTime": 1472331600000,
+      "location": "Cheek Hall",
+      "locationAddress": "825 S National Ave",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Pi Kappa Alpha",
+      "description": "Open House and Wings",
+      "startTime": 1472508000000,
+      "endTime": 1472515200000,
+      "location": "Pike House",
+      "locationAddress": "1117 E Elm St.",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Pi Kappa Alpha",
+      "description": "Field Day",
+      "startTime": 1472590800000,
+      "endTime": 1472598000000,
+      "location": "Taco Bell Fields",
+      "locationAddress": "1140 E Harrison St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Pi Kappa Alpha",
+      "description": "Crawfish Boil",
+      "startTime": 1472684400000,
+      "endTime": 1472691600000,
+      "location": "Pike House",
+      "locationAddress": "1117 E Elm St.",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Pi Kappa Alpha",
+      "description": "Volunteer with Pike",
+      "startTime": null,
+      "endTime": null,
+      "location": "",
+      "locationAddress": "",
+      "meetTime": 1473201000000,
+      "meetLocation": "Pike House",
+      "meetLocationAddress": "1117 E Elm St."
+    },
+    {
+      "sponsor": "Pi Kappa Alpha",
+      "description": "Bowling and Pizza",
+      "startTime": 1473289200000,
+      "endTime": 1473296400000,
+      "location": "PSU Level 1",
+      "locationAddress": "1110 E Madison St.",
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": ""
