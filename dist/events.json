@@ -7,6 +7,13 @@
       "twitter": "@AKLBetaPsiMSU",
       "colors": null
     },
+    "Campus Sports": {
+      "name": "Campus Sports",
+      "letters": "",
+      "nickname": null,
+      "twitter": "MissouriStBears",
+      "colors": null
+    },
     "Delta Chi": {
       "name": "Delta Chi",
       "letters": "ΔΧ",
@@ -61,6 +68,13 @@
       "letters": "ΣΝ",
       "nickname": "Sig Nu",
       "twitter": "@MSUSimgaNu",
+      "colors": null
+    },
+    "Theta Chi": {
+      "name": "Theta Chi",
+      "letters": "ΘΧ",
+      "nickname": "Theta Chi",
+      "twitter": "ThetaChiMSU",
       "colors": null
     }
   },
@@ -149,6 +163,105 @@
       "endTime": 1473134400000,
       "location": "",
       "locationAddress": "",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Rec Fest",
+      "startTime": 1472511600000,
+      "endTime": 1472522400000,
+      "location": "Foster Recreation Center",
+      "locationAddress": "945 E Madison St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Rec Fest",
+      "startTime": 1472598000000,
+      "endTime": 1472608800000,
+      "location": "Foster Recreation Center",
+      "locationAddress": "945 E Madison St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Rec Fest",
+      "startTime": 1472684400000,
+      "endTime": 1472695200000,
+      "location": "Foster Recreation Center",
+      "locationAddress": "945 E Madison St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Football vs. Southwest (Kan.) College",
+      "startTime": 1472770800000,
+      "endTime": 1472781600000,
+      "location": "Robert B. Plaster Sports Complex",
+      "locationAddress": "1015 E Grand St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Women's Volleyball vs. McNeese State",
+      "startTime": 1473379200000,
+      "endTime": 1473386400000,
+      "location": "JQH Arena",
+      "locationAddress": "685 S John Q Hammons Pkwy",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Women's Soccer vs. Nebraska-Omaha",
+      "startTime": 1473465600000,
+      "endTime": 1473472800000,
+      "location": "Betty and Bobby Allison South Stadium",
+      "locationAddress": "830 E. Bear Blvd",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Women's Volleyball vs. Ohio State",
+      "startTime": 1473465600000,
+      "endTime": 1473472800000,
+      "location": "JQH Arena",
+      "locationAddress": "685 S John Q Hammons Pkwy",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Women's Volleyball vs. Western Illinois",
+      "startTime": 1476032400000,
+      "endTime": 1476039600000,
+      "location": "JQH Arena",
+      "locationAddress": "685 S John Q Hammons Pkwy",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Women's Volleyball vs. IUPUI",
+      "startTime": 1476057600000,
+      "endTime": 1476064800000,
+      "location": "JQH Arena",
+      "locationAddress": "685 John Q Hammons Pkwy",
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": ""
@@ -757,6 +870,127 @@
       "meetTime": 1473373800000,
       "meetLocation": "Sig Nu House",
       "meetLocationAddress": "1116 E Elm"
+    },
+    {
+      "sponsor": "Theta Chi",
+      "description": "Midnight Madness",
+      "startTime": 1472446740000,
+      "endTime": null,
+      "location": "",
+      "locationAddress": "",
+      "meetTime": 1472445900000,
+      "meetLocation": "Theta Chi House",
+      "meetLocationAddress": "1146 E Cherry St."
+    },
+    {
+      "sponsor": "Theta Chi",
+      "description": "Broomball",
+      "startTime": 1472518800000,
+      "endTime": null,
+      "location": "",
+      "locationAddress": "",
+      "meetTime": 1472517900000,
+      "meetLocation": "Theta Chi House",
+      "meetLocationAddress": "1146 E Cherry St."
+    },
+    {
+      "sponsor": "Theta Chi",
+      "description": "Caddyshack",
+      "startTime": 1472598000000,
+      "endTime": null,
+      "location": "",
+      "locationAddress": "1146 E Cherry St.",
+      "meetTime": 1472597100000,
+      "meetLocation": "Theta Chi House",
+      "meetLocationAddress": "1146 E Cherry St."
+    },
+    {
+      "sponsor": "Theta Chi",
+      "description": "Iron Chef",
+      "startTime": 1472688000000,
+      "endTime": null,
+      "location": "",
+      "locationAddress": "1146 E Cherry St.",
+      "meetTime": 1472687100000,
+      "meetLocation": "Theta Chi House",
+      "meetLocationAddress": "1146 E Cherry St."
+    },
+    {
+      "sponsor": "Theta Chi",
+      "description": "Football Game",
+      "startTime": 1472767200000,
+      "endTime": null,
+      "location": "",
+      "locationAddress": "",
+      "meetTime": 1472766300000,
+      "meetLocation": "Theta Chi House",
+      "meetLocationAddress": "1146 E Cherry St."
+    },
+    {
+      "sponsor": "Theta Chi",
+      "description": "Downstream Casino",
+      "startTime": 1472864400000,
+      "endTime": null,
+      "location": "Downstream",
+      "locationAddress": "69300 East Nee Road Quapaw; OK 74363",
+      "meetTime": 1472863500000,
+      "meetLocation": "Theta Chi House",
+      "meetLocationAddress": "1146 E Cherry St."
+    },
+    {
+      "sponsor": "Theta Chi",
+      "description": "3-On-3 Tournament",
+      "startTime": 1472929200000,
+      "endTime": null,
+      "location": "",
+      "locationAddress": "",
+      "meetTime": 1472928300000,
+      "meetLocation": "Theta Chi House",
+      "meetLocationAddress": "1146 E Cherry St."
+    },
+    {
+      "sponsor": "Theta Chi",
+      "description": "Open House",
+      "startTime": null,
+      "endTime": null,
+      "location": "",
+      "locationAddress": "1146 E Cherry St.",
+      "meetTime": null,
+      "meetLocation": "Theta Chi House",
+      "meetLocationAddress": "1146 E Cherry St."
+    },
+    {
+      "sponsor": "Theta Chi",
+      "description": "Labor Day BBQ",
+      "startTime": 1473112800000,
+      "endTime": null,
+      "location": "",
+      "locationAddress": "",
+      "meetTime": 1473111900000,
+      "meetLocation": "Theta Chi House",
+      "meetLocationAddress": "1146 E Cherry St."
+    },
+    {
+      "sponsor": "Theta Chi",
+      "description": "Video Game Tournament ",
+      "startTime": 1473210000000,
+      "endTime": null,
+      "location": "",
+      "locationAddress": "1146 E Cherry St.",
+      "meetTime": 1473209100000,
+      "meetLocation": "Theta Chi House",
+      "meetLocationAddress": "1146 E Cherry St."
+    },
+    {
+      "sponsor": "Theta Chi",
+      "description": "Culture Club",
+      "startTime": 1473276600000,
+      "endTime": null,
+      "location": "",
+      "locationAddress": "",
+      "meetTime": 1473275700000,
+      "meetLocation": "Theta Chi House",
+      "meetLocationAddress": "1146 E Cherry St."
     }
   ]
 }
