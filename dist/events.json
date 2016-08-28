@@ -7,6 +7,13 @@
       "twitter": "@AKLBetaPsiMSU",
       "colors": null
     },
+    "Campus Sports": {
+      "name": "Campus Sports",
+      "letters": "",
+      "nickname": null,
+      "twitter": "MissouriStBears",
+      "colors": null
+    },
     "Delta Chi": {
       "name": "Delta Chi",
       "letters": "ΔΧ",
@@ -149,6 +156,105 @@
       "endTime": 1473134400000,
       "location": "",
       "locationAddress": "",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Rec Fest",
+      "startTime": 1472511600000,
+      "endTime": 1472522400000,
+      "location": "Foster Recreation Center",
+      "locationAddress": "945 E Madison St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Rec Fest",
+      "startTime": 1472598000000,
+      "endTime": 1472608800000,
+      "location": "Foster Recreation Center",
+      "locationAddress": "945 E Madison St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Rec Fest",
+      "startTime": 1472684400000,
+      "endTime": 1472695200000,
+      "location": "Foster Recreation Center",
+      "locationAddress": "945 E Madison St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Football vs. Southwest (Kan.) College",
+      "startTime": 1472770800000,
+      "endTime": 1472781600000,
+      "location": "Robert B. Plaster Sports Complex",
+      "locationAddress": "1015 E Grand St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Women's Volleyball vs. McNeese State",
+      "startTime": 1473379200000,
+      "endTime": 1473386400000,
+      "location": "JQH Arena",
+      "locationAddress": "685 S John Q Hammons Pkwy",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Women's Soccer vs. Nebraska-Omaha",
+      "startTime": 1473465600000,
+      "endTime": 1473472800000,
+      "location": "Betty and Bobby Allison South Stadium",
+      "locationAddress": "830 E. Bear Blvd",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Women's Volleyball vs. Ohio State",
+      "startTime": 1473465600000,
+      "endTime": 1473472800000,
+      "location": "JQH Arena",
+      "locationAddress": "685 S John Q Hammons Pkwy",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Women's Volleyball vs. Western Illinois",
+      "startTime": 1476032400000,
+      "endTime": 1476039600000,
+      "location": "JQH Arena",
+      "locationAddress": "685 S John Q Hammons Pkwy",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Campus Sports",
+      "description": "Women's Volleyball vs. IUPUI",
+      "startTime": 1476057600000,
+      "endTime": 1476064800000,
+      "location": "JQH Arena",
+      "locationAddress": "685 John Q Hammons Pkwy",
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": ""
