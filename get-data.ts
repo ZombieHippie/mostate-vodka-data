@@ -62,12 +62,20 @@ function extractEvents (fileContents, dataSummary: DataSummary)  {
     twitter: sponsorTwitter || null,
     colors: sponsorColorsFiltered || null }
 
-  console.log(`# Events (${eventsData.length})`, eventsData)
+  let i
+  for (i = 0; i < eventsData.length; i++) {
+    if (!/\w/.test(eventsData[i])) break
+  }
 
-  let events = eventsData.map((evString) => splitEventData(evString, sponsor))
+  let eventsDataSliced = eventsData.slice(0, i)
+
+  console.log(`# Events (${eventsDataSliced.length})`, eventsDataSliced)
+
+  let events: DataEvent[] = eventsDataSliced.map((evString) => splitEventData(evString, sponsor))
+  
 
   // modify dataSummary
-  dataSummary.events.push(...events)
+  dataSummary.events.push(...events.slice(0, i))
   dataSummary.sponsors[sponsor.name] = sponsor
 }
 
