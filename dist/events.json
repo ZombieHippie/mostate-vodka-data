@@ -1,28 +1,203 @@
 {
   "sponsors": {
+    "Delta Sigma Phi": {
+      "name": "Delta Sigma Phi",
+      "letters": "ΔΣΦ",
+      "nickname": "Delta Sig",
+      "twitter": "@DeltaSigMSU",
+      "colors": null
+    },
+    "Kappa Sigma": {
+      "name": "Kappa Sigma",
+      "letters": "ΚΣ",
+      "nickname": "Kappa Sig",
+      "twitter": "@KappaSigmaMuRho",
+      "colors": null
+    },
     "Phi Delta Theta": {
       "name": "Phi Delta Theta",
       "letters": "ΦΔϴ",
       "nickname": "Phi Delt",
-      "twitter": "mostatephidelt",
+      "twitter": "@MSU_Phi_Delt",
       "colors": null
     },
     "Phi Gamma Delta": {
       "name": "Phi Gamma Delta",
       "letters": "ΦΓΔ",
       "nickname": "FIJI",
-      "twitter": "mostatephidelt",
+      "twitter": "@MoState_FIJI",
       "colors": null
     },
     "Pi Kappa Phi": {
       "name": "Pi Kappa Phi",
       "letters": "ΠKΦ",
       "nickname": "PiKapp",
-      "twitter": "mostatephidelt",
+      "twitter": "@MoStatePiKapp",
+      "colors": null
+    },
+    "Sigma Nu": {
+      "name": "Sigma Nu",
+      "letters": "ΣΝ",
+      "nickname": "Sig Nu",
+      "twitter": "@MSUSimgaNu",
       "colors": null
     }
   },
   "events": [
+    {
+      "sponsor": "Delta Sigma Phi",
+      "description": "Slip 'n N Kick'n (Meet at 8:40pm)",
+      "startTime": 1472522400000,
+      "endTime": 1472529600000,
+      "location": "Taco Bell Field West",
+      "locationAddress": "1140 E Harrison St",
+      "meetTime": 1472521200000,
+      "meetLocation": "PSU Bear Statue",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Delta Sigma Phi",
+      "description": "Broomball (Meet at 8:40pm)",
+      "startTime": 1472695200000,
+      "endTime": 1472698800000,
+      "location": "Mediacom Ice Park",
+      "locationAddress": "635 E Trafficway St",
+      "meetTime": 1472694000000,
+      "meetLocation": "PSU Bear Statue",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Delta Sigma Phi",
+      "description": "Capture the Flag (Meet at 7:40pm)",
+      "startTime": 1473210000000,
+      "endTime": 1473217200000,
+      "location": "The Fountain",
+      "locationAddress": "887 S Kings",
+      "meetTime": 1473208800000,
+      "meetLocation": "PSU Bear Statue",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Kappa Sigma",
+      "description": "BBQ ",
+      "startTime": 1472511600000,
+      "endTime": 1472518800000,
+      "location": "KS House",
+      "locationAddress": "800 S National Ave",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Kappa Sigma",
+      "description": "Taco Tuesday ($.50 Tacos)",
+      "startTime": 1472598000000,
+      "endTime": 1472605200000,
+      "location": "The Roost",
+      "locationAddress": "2025 W Sunshine St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Kappa Sigma",
+      "description": "Dodgeball",
+      "startTime": 1472684400000,
+      "endTime": 1472691600000,
+      "location": "KS House",
+      "locationAddress": "800 S National Ave",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Kappa Sigma",
+      "description": "Football/Soccer",
+      "startTime": 1472767200000,
+      "endTime": 1472774400000,
+      "location": "Taco Bell Fields",
+      "locationAddress": "1140 E Harrison St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Kappa Sigma",
+      "description": "Basketball",
+      "startTime": 1472853600000,
+      "endTime": 1472860800000,
+      "location": "Hammons Student Center",
+      "locationAddress": "731 Bear Blvd",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Kappa Sigma",
+      "description": "Open House",
+      "startTime": 1473116400000,
+      "endTime": 1473123600000,
+      "location": "KS House",
+      "locationAddress": "800 S National Ave",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Kappa Sigma",
+      "description": "Slip 'n Slide",
+      "startTime": 1473197400000,
+      "endTime": 1473202800000,
+      "location": "Taco Bell Fields",
+      "locationAddress": "1140 E Harrison St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Kappa Sigma",
+      "description": "Putt Putt",
+      "startTime": 1473285600000,
+      "endTime": 1473292800000,
+      "location": "Fun Acre",
+      "locationAddress": "2500 S Campbell",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Kappa Sigma",
+      "description": "BBQ",
+      "startTime": 1473375600000,
+      "endTime": 1473382800000,
+      "location": "KS House",
+      "locationAddress": "800 S National Ave",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Kappa Sigma",
+      "description": "Open House",
+      "startTime": 1473462000000,
+      "endTime": 1473469200000,
+      "location": "KS House",
+      "locationAddress": "800 S National Ave",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Phi Delta Theta",
+      "description": "Tyler Farr Concert",
+      "startTime": 1472425200000,
+      "endTime": null,
+      "location": "Phi Delt House",
+      "locationAddress": "1107 East Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
     {
       "sponsor": "Phi Delta Theta",
       "description": "Food Truck Night",
@@ -51,7 +226,7 @@
       "startTime": 1472680800000,
       "endTime": 1472688000000,
       "location": "Rec Fields",
-      "locationAddress": "",
+      "locationAddress": "1140 E Harrison St",
       "meetTime": 1472679000000,
       "meetLocation": "Phi Delt House",
       "meetLocationAddress": "1107 East Elm Street"
@@ -74,7 +249,9 @@
       "endTime": null,
       "location": "FIJI House",
       "locationAddress": "949 E Elm St",
-      "meetTime": null
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -83,7 +260,9 @@
       "endTime": null,
       "location": "FIJI House",
       "locationAddress": "949 E Elm St",
-      "meetTime": null
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -92,7 +271,9 @@
       "endTime": null,
       "location": "FIJI House",
       "locationAddress": "949 E Elm St",
-      "meetTime": null
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -101,16 +282,20 @@
       "endTime": null,
       "location": "FIJI House",
       "locationAddress": "949 E Elm St",
-      "meetTime": null
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
     },
     {
       "sponsor": "Phi Gamma Delta",
-      "description": "Convoy of Hope (Meet at 4pm)",
-      "startTime": 1473200100000,
+      "description": "Convoy of Hope",
+      "startTime": null,
       "endTime": null,
-      "location": "FIJI House",
-      "locationAddress": "949 E Elm St",
-      "meetTime": null
+      "location": "",
+      "locationAddress": "",
+      "meetTime": 1473200100000,
+      "meetLocation": "FIJI House",
+      "meetLocationAddress": "949 E Elm St"
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -118,8 +303,10 @@
       "startTime": 1473282000000,
       "endTime": null,
       "location": "Taco Bell Fields",
-      "locationAddress": "",
-      "meetTime": null
+      "locationAddress": "1140 E Harrison St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -128,7 +315,9 @@
       "endTime": null,
       "location": "FIJI House",
       "locationAddress": "949 E Elm St",
-      "meetTime": null
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -137,7 +326,9 @@
       "endTime": null,
       "location": "FIJI House",
       "locationAddress": "949 E Elm St",
-      "meetTime": null
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -146,7 +337,9 @@
       "endTime": null,
       "location": "Pi Kapp House",
       "locationAddress": "1040 East Elm Street",
-      "meetTime": null
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -155,26 +348,31 @@
       "endTime": null,
       "location": "Pi Kapp House",
       "locationAddress": "1040 East Elm Street",
-      "meetTime": null
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
     },
     {
       "sponsor": "Pi Kappa Phi",
-      "description": "mini golf",
+      "description": "Mini golf",
       "startTime": 1472684400000,
       "endTime": null,
       "location": "Pi Kapp House",
       "locationAddress": "1040 East Elm Street",
-      "meetTime": null
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
     },
     {
       "sponsor": "Pi Kappa Phi",
-      "description": "\"BBQ",
+      "description": "BBQ; House Tour; Yard Games",
       "startTime": 1472767200000,
       "endTime": null,
       "location": "Pi Kapp House",
       "locationAddress": "1040 East Elm Street",
       "meetTime": null,
-      "meetLocation": " Yard Games\""
+      "meetLocation": "",
+      "meetLocationAddress": ""
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -183,7 +381,9 @@
       "endTime": null,
       "location": "Pi Kapp House",
       "locationAddress": "1040 East Elm Street",
-      "meetTime": null
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -192,7 +392,9 @@
       "endTime": null,
       "location": "Pi Kapp House",
       "locationAddress": "1040 East Elm Street",
-      "meetTime": null
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -201,7 +403,9 @@
       "endTime": null,
       "location": "Pi Kapp House",
       "locationAddress": "1040 East Elm Street",
-      "meetTime": null
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -210,7 +414,9 @@
       "endTime": null,
       "location": "Pi Kapp House",
       "locationAddress": "1040 East Elm Street",
-      "meetTime": null
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -219,7 +425,108 @@
       "endTime": null,
       "location": "Pi Kapp House",
       "locationAddress": "1040 East Elm Street",
-      "meetTime": null
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": ""
+    },
+    {
+      "sponsor": "Sigma Nu",
+      "description": "BBQ Kickoff (Meet at 11:30pm)",
+      "startTime": 1472446740000,
+      "endTime": null,
+      "location": "Sig Nu House",
+      "locationAddress": "1116 E Elm",
+      "meetTime": 1472445000000,
+      "meetLocation": "Sig Nu House",
+      "meetLocationAddress": "1116 E Elm"
+    },
+    {
+      "sponsor": "Sigma Nu",
+      "description": "Become a World Record Holder (Meet at 5:30pm)",
+      "startTime": 1472511600000,
+      "endTime": null,
+      "location": "Taco Bell Field",
+      "locationAddress": "1140 E Harrison St",
+      "meetTime": 1472509800000,
+      "meetLocation": "Sig Nu House",
+      "meetLocationAddress": "1116 E Elm"
+    },
+    {
+      "sponsor": "Sigma Nu",
+      "description": "Dodgeball (Meet at 5:30pm)",
+      "startTime": 1472598000000,
+      "endTime": null,
+      "location": "Hammons Student Center",
+      "locationAddress": "731 Bear Blvd",
+      "meetTime": 1472596200000,
+      "meetLocation": "Sig Nu House",
+      "meetLocationAddress": "1116 E Elm"
+    },
+    {
+      "sponsor": "Sigma Nu",
+      "description": "Broomball (Meet at 8:30pm)",
+      "startTime": 1472695200000,
+      "endTime": null,
+      "location": "Mediacom Ice Rink",
+      "locationAddress": "635 E Trafficway",
+      "meetTime": 1472693400000,
+      "meetLocation": "Sig Nu House",
+      "meetLocationAddress": "1116 E Elm"
+    },
+    {
+      "sponsor": "Sigma Nu",
+      "description": "Football Home Opener (Meet at 3:30pm)",
+      "startTime": 1472763600000,
+      "endTime": null,
+      "location": "BearFest Village",
+      "locationAddress": "887 S Kings",
+      "meetTime": 1472761800000,
+      "meetLocation": "Sig Nu House",
+      "meetLocationAddress": "1116 E Elm"
+    },
+    {
+      "sponsor": "Sigma Nu",
+      "description": "Lake Day (Meet at 9:30am)",
+      "startTime": 1472828400000,
+      "endTime": null,
+      "location": "Branson",
+      "locationAddress": "Missouri",
+      "meetTime": 1472826600000,
+      "meetLocation": "Sig Nu House",
+      "meetLocationAddress": "1116 E Elm"
+    },
+    {
+      "sponsor": "Sigma Nu",
+      "description": "Bowling Night (Meet at 5:30pm)",
+      "startTime": 1473116400000,
+      "endTime": null,
+      "location": "PSU",
+      "locationAddress": "1132 E Madison",
+      "meetTime": 1473114600000,
+      "meetLocation": "Sig Nu House",
+      "meetLocationAddress": "1116 E Elm"
+    },
+    {
+      "sponsor": "Sigma Nu",
+      "description": "Street Cleanup (Meet at 5:30pm)",
+      "startTime": 1473202800000,
+      "endTime": null,
+      "location": "Sig Nu House",
+      "locationAddress": "1116 E Elm",
+      "meetTime": 1473201000000,
+      "meetLocation": "Sig Nu House",
+      "meetLocationAddress": "1116 E Elm"
+    },
+    {
+      "sponsor": "Sigma Nu",
+      "description": "National Signing Day (Meet at 5:30pm)",
+      "startTime": 1473375600000,
+      "endTime": null,
+      "location": "Sig Nu House",
+      "locationAddress": "1116 E Elm",
+      "meetTime": 1473373800000,
+      "meetLocation": "Sig Nu House",
+      "meetLocationAddress": "1116 E Elm"
     }
   ]
 }
