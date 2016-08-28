@@ -25,7 +25,7 @@ function isInt (n: string): boolean {
 
 function splitEventData (str, sponsor: DataSponsor): DataEvent {
   // str is csv of row in spread sheet
-  const [date, timeStart, timeEnd, location, locationAddress, description, timeMeet, meetLocation, meetLocationAddress] = str.split(',')
+  const [date, timeStart, timeEnd, location, locationAddress, description, timeMeet, meetLocation, meetLocationAddress, source] = str.split(',')
 
   const momentDate = moment(date).set('year', 2016)
   const startTime = isInt(timeStart) ? setTime(momentDate, timeStart) : null
@@ -41,7 +41,8 @@ function splitEventData (str, sponsor: DataSponsor): DataEvent {
     locationAddress,
     meetTime,
     meetLocation,
-    meetLocationAddress
+    meetLocationAddress,
+    source
   }
   return evt;
 }

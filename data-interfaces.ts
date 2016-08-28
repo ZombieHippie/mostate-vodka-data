@@ -19,6 +19,7 @@ export interface DataEvent {
   meetTime?: number
   meetLocation?: string
   meetLocationAddress?: string
+  source?: string
 }
 
 export interface DataSummary {
