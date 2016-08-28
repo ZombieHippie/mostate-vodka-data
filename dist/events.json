@@ -73,7 +73,7 @@
     "Theta Chi": {
       "name": "Theta Chi",
       "letters": "ΘΧ",
-      "nickname": "Teta Chi",
+      "nickname": "Theta Chi",
       "twitter": "ThetaChiMSU",
       "colors": null
     }
@@ -928,14 +928,14 @@
     },
     {
       "sponsor": "Theta Chi",
-      "description": " OK 74363\"",
+      "description": "Downstream Casino",
       "startTime": 1472864400000,
       "endTime": null,
       "location": "Downstream",
-      "locationAddress": "\"69300 East Nee Road Quapaw",
-      "meetTime": null,
-      "meetLocation": "19:45",
-      "meetLocationAddress": "Theta Chi House"
+      "locationAddress": "69300 East Nee Road Quapaw; OK 74363",
+      "meetTime": 1472863500000,
+      "meetLocation": "Theta Chi House",
+      "meetLocationAddress": "1146 E Cherry St."
     },
     {
       "sponsor": "Theta Chi",
