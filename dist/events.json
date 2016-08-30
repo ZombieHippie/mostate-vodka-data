@@ -63,11 +63,39 @@
       "twitter": "@MoStatePiKapp",
       "colors": null
     },
+    "Sigma Chi": {
+      "name": "Sigma Chi",
+      "letters": "ΣΧ",
+      "nickname": null,
+      "twitter": "@SigmaChiMSU",
+      "colors": null
+    },
+    "Sigma Phi Epsilon": {
+      "name": "Sigma Phi Epsilon",
+      "letters": "ΣΦΕ",
+      "nickname": "Sig EP",
+      "twitter": "MOStateSigEp",
+      "colors": null
+    },
+    "Sigma Pi": {
+      "name": "Sigma Pi",
+      "letters": "\" ΣΠ",
+      "nickname": null,
+      "twitter": null,
+      "colors": null
+    },
     "Sigma Nu": {
       "name": "Sigma Nu",
       "letters": "ΣΝ",
       "nickname": "Sig Nu",
       "twitter": "@MSUSigmaNu",
+      "colors": null
+    },
+    "Tau Kappa Epsilon": {
+      "name": "Tau Kappa Epsilon",
+      "letters": "TKE",
+      "nickname": "Teke",
+      "twitter": "MO_State_TKE",
       "colors": null
     },
     "Theta Chi": {
@@ -317,7 +345,7 @@
       "meetTime": 1472521200000,
       "meetLocation": "PSU Bear Statue",
       "meetLocationAddress": "",
-      "source": "Delta Sigma Phi Card"
+      "source": "image:Delta Sigma Phi Card"
     },
     {
       "sponsor": "Delta Sigma Phi",
@@ -329,7 +357,7 @@
       "meetTime": 1472694000000,
       "meetLocation": "PSU Bear Statue",
       "meetLocationAddress": "",
-      "source": "Delta Sigma Phi Card"
+      "source": "image:Delta Sigma Phi Card"
     },
     {
       "sponsor": "Delta Sigma Phi",
@@ -341,7 +369,7 @@
       "meetTime": 1473208800000,
       "meetLocation": "PSU Bear Statue",
       "meetLocationAddress": "",
-      "source": "Delta Sigma Phi Card"
+      "source": "image:Delta Sigma Phi Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -353,7 +381,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Kappa Sigma Card"
+      "source": "image:Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -365,7 +393,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Kappa Sigma Card"
+      "source": "image:Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -377,7 +405,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Kappa Sigma Card"
+      "source": "image:Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -389,7 +417,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Kappa Sigma Card"
+      "source": "image:Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -401,7 +429,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Kappa Sigma Card"
+      "source": "image:Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -413,7 +441,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Kappa Sigma Card"
+      "source": "image:Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -425,7 +453,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Kappa Sigma Card"
+      "source": "image:Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -437,7 +465,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Kappa Sigma Card"
+      "source": "image:Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -449,7 +477,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Kappa Sigma Card"
+      "source": "image:Kappa Sigma Card"
     },
     {
       "sponsor": "Kappa Sigma",
@@ -461,7 +489,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Kappa Sigma Card"
+      "source": "image:Kappa Sigma Card"
     },
     {
       "sponsor": "Phi Delta Theta",
@@ -485,7 +513,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Phi Delta Theta Card"
+      "source": "image:Phi Delta Theta Card"
     },
     {
       "sponsor": "Phi Delta Theta",
@@ -497,7 +525,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Phi Delta Theta Card"
+      "source": "image:Phi Delta Theta Card"
     },
     {
       "sponsor": "Phi Delta Theta",
@@ -509,7 +537,7 @@
       "meetTime": 1472679000000,
       "meetLocation": "Phi Delt House",
       "meetLocationAddress": "1107 East Elm Street",
-      "source": "Phi Delta Theta Card"
+      "source": "image:Phi Delta Theta Card"
     },
     {
       "sponsor": "Phi Delta Theta",
@@ -521,7 +549,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Phi Delta Theta Card"
+      "source": "image:Phi Delta Theta Card"
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -533,7 +561,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Phi Gamma Delta Card"
+      "source": "image:FIJI Card"
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -545,7 +573,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Phi Gamma Delta Card"
+      "source": "image:FIJI Card"
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -557,7 +585,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Phi Gamma Delta Card"
+      "source": "image:FIJI Card"
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -569,7 +597,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Phi Gamma Delta Card"
+      "source": "image:FIJI Card"
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -581,7 +609,7 @@
       "meetTime": 1473200100000,
       "meetLocation": "FIJI House",
       "meetLocationAddress": "949 E Elm St",
-      "source": "Phi Gamma Delta Card"
+      "source": "image:FIJI Card"
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -593,7 +621,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Phi Gamma Delta Card"
+      "source": "image:FIJI Card"
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -605,7 +633,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Phi Gamma Delta Card"
+      "source": "image:FIJI Card"
     },
     {
       "sponsor": "Phi Gamma Delta",
@@ -617,7 +645,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Phi Gamma Delta Card"
+      "source": "image:FIJI Card"
     },
     {
       "sponsor": "Pi Kappa Alpha",
@@ -629,7 +657,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "MSU_Pikes"
+      "source": "https://twitter.com/msu_pikes"
     },
     {
       "sponsor": "Pi Kappa Alpha",
@@ -641,7 +669,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "MSU_Pikes"
+      "source": "https://twitter.com/msu_pikes"
     },
     {
       "sponsor": "Pi Kappa Alpha",
@@ -653,7 +681,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "MSU_Pikes"
+      "source": "https://twitter.com/msu_pikes"
     },
     {
       "sponsor": "Pi Kappa Alpha",
@@ -665,7 +693,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "MSU_Pikes"
+      "source": "https://twitter.com/msu_pikes"
     },
     {
       "sponsor": "Pi Kappa Alpha",
@@ -677,7 +705,7 @@
       "meetTime": 1473201000000,
       "meetLocation": "Pike House",
       "meetLocationAddress": "1117 E Elm St.",
-      "source": "MSU_Pikes"
+      "source": "https://twitter.com/msu_pikes"
     },
     {
       "sponsor": "Pi Kappa Alpha",
@@ -689,7 +717,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "MSU_Pikes"
+      "source": "https://twitter.com/msu_pikes"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -701,7 +729,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Pi Kappa Phi Card"
+      "source": "image:Pi Kappa Phi Card"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -713,7 +741,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Pi Kappa Phi Card"
+      "source": "image:Pi Kappa Phi Card"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -725,7 +753,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Pi Kappa Phi Card"
+      "source": "image:Pi Kappa Phi Card"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -737,7 +765,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Pi Kappa Phi Card"
+      "source": "image:Pi Kappa Phi Card"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -749,7 +777,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Pi Kappa Phi Card"
+      "source": "image:Pi Kappa Phi Card"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -761,7 +789,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Pi Kappa Phi Card"
+      "source": "image:Pi Kappa Phi Card"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -773,7 +801,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Pi Kappa Phi Card"
+      "source": "image:Pi Kappa Phi Card"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -785,7 +813,7 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Pi Kappa Phi Card"
+      "source": "image:Pi Kappa Phi Card"
     },
     {
       "sponsor": "Pi Kappa Phi",
@@ -797,7 +825,235 @@
       "meetTime": null,
       "meetLocation": "",
       "meetLocationAddress": "",
-      "source": "Pi Kappa Phi Card"
+      "source": "image:Pi Kappa Phi Card"
+    },
+    {
+      "sponsor": "Sigma Chi",
+      "description": "Bubble Soccer",
+      "startTime": 1472522400000,
+      "endTime": null,
+      "location": "Allison's Turf Field East",
+      "locationAddress": "730 E Cherry St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "image:Sigma Chi Card"
+    },
+    {
+      "sponsor": "Sigma Chi",
+      "description": "90's Game Night",
+      "startTime": 1472603400000,
+      "endTime": null,
+      "location": "Sigma Chi House",
+      "locationAddress": "832 S Kimborough Ave",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "image:Sigma Chi Card"
+    },
+    {
+      "sponsor": "Sigma Chi",
+      "description": "Dodgeball",
+      "startTime": 1472691600000,
+      "endTime": null,
+      "location": "Hammon's Student Center",
+      "locationAddress": "832 S Kimborough Ave",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "image:Sigma Chi Card"
+    },
+    {
+      "sponsor": "Sigma Chi",
+      "description": "Ebbet's Dinner",
+      "startTime": 1472860800000,
+      "endTime": null,
+      "location": "Ebbet's Field Restaurant",
+      "locationAddress": "1027 E Walnut St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "image:Sigma Chi Card"
+    },
+    {
+      "sponsor": "Sigma Chi",
+      "description": "Broomball",
+      "startTime": 1473040800000,
+      "endTime": null,
+      "location": "Mediacom Ice Rink",
+      "locationAddress": "635 E Trafficway St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "image:Sigma Chi Card"
+    },
+    {
+      "sponsor": "Sigma Chi",
+      "description": "House Mini Golf",
+      "startTime": 1473379200000,
+      "endTime": null,
+      "location": "Sigma Chi House",
+      "locationAddress": "832 S Kimborough Ave",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "image:Sigma Chi Card"
+    },
+    {
+      "sponsor": "Sigma Phi Epsilon",
+      "description": "St. Louis Cardinals Watch Party",
+      "startTime": 1472512800000,
+      "endTime": null,
+      "location": "Sig Ep House",
+      "locationAddress": "1124 East Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "image:Sigma Phi Epsilon Card"
+    },
+    {
+      "sponsor": "Sigma Phi Epsilon",
+      "description": "3v3 Basketball",
+      "startTime": 1472590800000,
+      "endTime": 1472601600000,
+      "location": "Sig Ep House",
+      "locationAddress": "1124 East Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "image:Sigma Phi Epsilon Card"
+    },
+    {
+      "sponsor": "Sigma Phi Epsilon",
+      "description": "Flag Football",
+      "startTime": 1472677200000,
+      "endTime": 1472688000000,
+      "location": "Taco Bell Field",
+      "locationAddress": "1140 E Harrison Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "image:Sigma Phi Epsilon Card"
+    },
+    {
+      "sponsor": "Sigma Phi Epsilon",
+      "description": "Crawfish Boil",
+      "startTime": 1473195600000,
+      "endTime": 1473206400000,
+      "location": "Sig Ep House",
+      "locationAddress": "1124 East Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "image:Sigma Phi Epsilon Card"
+    },
+    {
+      "sponsor": "Sigma Pi",
+      "description": "Description",
+      "startTime": null,
+      "endTime": null,
+      "location": "Location",
+      "locationAddress": "Location (Address)",
+      "meetTime": null,
+      "meetLocation": "Meet Location ",
+      "meetLocationAddress": "Meet Location (Address)",
+      "source": "Source"
+    },
+    {
+      "sponsor": "Sigma Pi",
+      "description": "BBQ",
+      "startTime": 1472511600000,
+      "endTime": null,
+      "location": "Sigma Pi House",
+      "locationAddress": "1000 E Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "https://www.facebook.com/MSUSigmaPi"
+    },
+    {
+      "sponsor": "Sigma Pi",
+      "description": "Community Service",
+      "startTime": 1472594400000,
+      "endTime": null,
+      "location": "Sigma Pi House",
+      "locationAddress": "1000 E Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "https://www.facebook.com/MSUSigmaPi"
+    },
+    {
+      "sponsor": "Sigma Pi",
+      "description": "Broomball",
+      "startTime": 1472695200000,
+      "endTime": null,
+      "location": "Sigma Pi House",
+      "locationAddress": "1000 E Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "https://www.facebook.com/MSUSigmaPi"
+    },
+    {
+      "sponsor": "Sigma Pi",
+      "description": "Dodgeball",
+      "startTime": 1472853600000,
+      "endTime": null,
+      "location": "Sigma Pi House",
+      "locationAddress": "1000 E Elm Street ",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "https://www.facebook.com/MSUSigmaPi"
+    },
+    {
+      "sponsor": "Sigma Pi",
+      "description": "Field Day",
+      "startTime": 1472940000000,
+      "endTime": null,
+      "location": "Sigma Pi House",
+      "locationAddress": "1000 E Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "https://www.facebook.com/MSUSigmaPi"
+    },
+    {
+      "sponsor": "Sigma Pi",
+      "description": "Info/Wing Night",
+      "startTime": 1473033600000,
+      "endTime": null,
+      "location": "Sigma Pi House",
+      "locationAddress": "1000 E Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "https://www.facebook.com/MSUSigmaPi"
+    },
+    {
+      "sponsor": "Sigma Pi",
+      "description": "Yard Games",
+      "startTime": 1473199200000,
+      "endTime": null,
+      "location": "Sigma Pi House",
+      "locationAddress": "1000 E Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "https://www.facebook.com/MSUSigmaPi"
+    },
+    {
+      "sponsor": "Sigma Pi",
+      "description": "Bonfire",
+      "startTime": 1473296400000,
+      "endTime": null,
+      "location": "Sigma Pi House",
+      "locationAddress": "1000 E Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "https://www.facebook.com/MSUSigmaPi"
     },
     {
       "sponsor": "Sigma Nu",
@@ -809,7 +1065,7 @@
       "meetTime": 1472445000000,
       "meetLocation": "Sig Nu House",
       "meetLocationAddress": "1116 E Elm",
-      "source": "Sigma Nu Card"
+      "source": "image:Sigma Nu Card"
     },
     {
       "sponsor": "Sigma Nu",
@@ -821,7 +1077,7 @@
       "meetTime": 1472509800000,
       "meetLocation": "Sig Nu House",
       "meetLocationAddress": "1116 E Elm",
-      "source": "Sigma Nu Card"
+      "source": "image:Sigma Nu Card"
     },
     {
       "sponsor": "Sigma Nu",
@@ -833,7 +1089,7 @@
       "meetTime": 1472596200000,
       "meetLocation": "Sig Nu House",
       "meetLocationAddress": "1116 E Elm",
-      "source": "Sigma Nu Card"
+      "source": "image:Sigma Nu Card"
     },
     {
       "sponsor": "Sigma Nu",
@@ -845,7 +1101,7 @@
       "meetTime": 1472693400000,
       "meetLocation": "Sig Nu House",
       "meetLocationAddress": "1116 E Elm",
-      "source": "Sigma Nu Card"
+      "source": "image:Sigma Nu Card"
     },
     {
       "sponsor": "Sigma Nu",
@@ -857,7 +1113,7 @@
       "meetTime": 1472761800000,
       "meetLocation": "Sig Nu House",
       "meetLocationAddress": "1116 E Elm",
-      "source": "Sigma Nu Card"
+      "source": "image:Sigma Nu Card"
     },
     {
       "sponsor": "Sigma Nu",
@@ -869,7 +1125,7 @@
       "meetTime": 1472826600000,
       "meetLocation": "Sig Nu House",
       "meetLocationAddress": "1116 E Elm",
-      "source": "Sigma Nu Card"
+      "source": "image:Sigma Nu Card"
     },
     {
       "sponsor": "Sigma Nu",
@@ -881,7 +1137,7 @@
       "meetTime": 1473114600000,
       "meetLocation": "Sig Nu House",
       "meetLocationAddress": "1116 E Elm",
-      "source": "Sigma Nu Card"
+      "source": "image:Sigma Nu Card"
     },
     {
       "sponsor": "Sigma Nu",
@@ -893,7 +1149,7 @@
       "meetTime": 1473201000000,
       "meetLocation": "Sig Nu House",
       "meetLocationAddress": "1116 E Elm",
-      "source": "Sigma Nu Card"
+      "source": "image:Sigma Nu Card"
     },
     {
       "sponsor": "Sigma Nu",
@@ -905,7 +1161,55 @@
       "meetTime": 1473373800000,
       "meetLocation": "Sig Nu House",
       "meetLocationAddress": "1116 E Elm",
-      "source": "Sigma Nu Card"
+      "source": "image:Sigma Nu Card"
+    },
+    {
+      "sponsor": "Tau Kappa Epsilon",
+      "description": "Hooters Girls/House Tour",
+      "startTime": 1472504400000,
+      "endTime": 1472511600000,
+      "location": "TKE House",
+      "locationAddress": "1315 E Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "Tau Kappa Epsilon Card"
+    },
+    {
+      "sponsor": "Tau Kappa Epsilon",
+      "description": "Games",
+      "startTime": 1472677200000,
+      "endTime": 1472684400000,
+      "location": "PSU Level One Game Center",
+      "locationAddress": "1132 E Madison",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "Tau Kappa Epsilon Card"
+    },
+    {
+      "sponsor": "Tau Kappa Epsilon",
+      "description": "Poker Tournement",
+      "startTime": 1473102000000,
+      "endTime": null,
+      "location": "TKE House",
+      "locationAddress": "1315 E Elm Street",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "Tau Kappa Epsilon Card"
+    },
+    {
+      "sponsor": "Tau Kappa Epsilon",
+      "description": "Pool/ Sand Vollyball",
+      "startTime": 1473206400000,
+      "endTime": 1473213600000,
+      "location": "Aspen Heights",
+      "locationAddress": "307 S National Ave",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "Tau Kappa Epsilon Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -917,7 +1221,7 @@
       "meetTime": 1472445900000,
       "meetLocation": "Theta Chi House",
       "meetLocationAddress": "1146 E Cherry St.",
-      "source": "Theta Chi Card"
+      "source": "image:Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -929,7 +1233,7 @@
       "meetTime": 1472517900000,
       "meetLocation": "Theta Chi House",
       "meetLocationAddress": "1146 E Cherry St.",
-      "source": "Theta Chi Card"
+      "source": "image:Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -941,7 +1245,7 @@
       "meetTime": 1472597100000,
       "meetLocation": "Theta Chi House",
       "meetLocationAddress": "1146 E Cherry St.",
-      "source": "Theta Chi Card"
+      "source": "image:Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -953,7 +1257,7 @@
       "meetTime": 1472687100000,
       "meetLocation": "Theta Chi House",
       "meetLocationAddress": "1146 E Cherry St.",
-      "source": "Theta Chi Card"
+      "source": "image:Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -965,7 +1269,7 @@
       "meetTime": 1472766300000,
       "meetLocation": "Theta Chi House",
       "meetLocationAddress": "1146 E Cherry St.",
-      "source": "Theta Chi Card"
+      "source": "image:Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -977,7 +1281,7 @@
       "meetTime": 1472863500000,
       "meetLocation": "Theta Chi House",
       "meetLocationAddress": "1146 E Cherry St.",
-      "source": "Theta Chi Card"
+      "source": "image:Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -989,7 +1293,7 @@
       "meetTime": 1472928300000,
       "meetLocation": "Theta Chi House",
       "meetLocationAddress": "1146 E Cherry St.",
-      "source": "Theta Chi Card"
+      "source": "image:Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -1001,7 +1305,7 @@
       "meetTime": null,
       "meetLocation": "Theta Chi House",
       "meetLocationAddress": "1146 E Cherry St.",
-      "source": "Theta Chi Card"
+      "source": "image:Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -1013,7 +1317,7 @@
       "meetTime": 1473111900000,
       "meetLocation": "Theta Chi House",
       "meetLocationAddress": "1146 E Cherry St.",
-      "source": "Theta Chi Card"
+      "source": "image:Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -1025,7 +1329,7 @@
       "meetTime": 1473209100000,
       "meetLocation": "Theta Chi House",
       "meetLocationAddress": "1146 E Cherry St.",
-      "source": "Theta Chi Card"
+      "source": "image:Theta Chi Card"
     },
     {
       "sponsor": "Theta Chi",
@@ -1037,7 +1341,7 @@
       "meetTime": 1473275700000,
       "meetLocation": "Theta Chi House",
       "meetLocationAddress": "1146 E Cherry St.",
-      "source": "Theta Chi Card"
+      "source": "image:Theta Chi Card"
     }
   ]
 }
