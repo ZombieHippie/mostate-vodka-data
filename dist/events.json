@@ -81,7 +81,14 @@
       "name": "Sigma Pi",
       "letters": "ΣΠ",
       "nickname": null,
-      "twitter": null,
+      "twitter": "SigmaPiMSU",
+      "colors": null
+    },
+    "Sigma Tau Gamma": {
+      "name": "Sigma Tau Gamma",
+      "letters": "ΣΤΓ",
+      "nickname": "Sig Tau",
+      "twitter": "sigtaumostate",
       "colors": null
     },
     "Sigma Nu": {
@@ -721,7 +728,7 @@
     },
     {
       "sponsor": "Pi Kappa Phi",
-      "description": "Rootbeer Keggar",
+      "description": "Rootbeer Kegger",
       "startTime": 1472504400000,
       "endTime": null,
       "location": "Pi Kapp House",
@@ -949,18 +956,6 @@
     },
     {
       "sponsor": "Sigma Pi",
-      "description": "Description",
-      "startTime": null,
-      "endTime": null,
-      "location": "Location",
-      "locationAddress": "Location (Address)",
-      "meetTime": null,
-      "meetLocation": "Meet Location ",
-      "meetLocationAddress": "Meet Location (Address)",
-      "source": "Source"
-    },
-    {
-      "sponsor": "Sigma Pi",
       "description": "BBQ",
       "startTime": 1472511600000,
       "endTime": null,
@@ -1054,6 +1049,78 @@
       "meetLocation": "",
       "meetLocationAddress": "",
       "source": "https://www.facebook.com/MSUSigmaPi"
+    },
+    {
+      "sponsor": "Sigma Tau Gamma",
+      "description": "Capture the Flag",
+      "startTime": 1472598000000,
+      "endTime": 1472605200000,
+      "location": "ROTC Field (Next to Freddy)",
+      "locationAddress": "800-830 South John Q Hammons Parkway",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "https://twitter.com/SigTauMOState/status/766145308577435648"
+    },
+    {
+      "sponsor": "Sigma Tau Gamma",
+      "description": "Bowling/Game Night",
+      "startTime": 1472691600000,
+      "endTime": 1472705940000,
+      "location": "Level 1 Game Center (In PSU)",
+      "locationAddress": "901 S National Ave",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "https://twitter.com/SigTauMOState/status/766145308577435648"
+    },
+    {
+      "sponsor": "Sigma Tau Gamma",
+      "description": "Blazin' Wing Challenge",
+      "startTime": 1472857200000,
+      "endTime": 1472864400000,
+      "location": "",
+      "locationAddress": "620 E Harrison St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "https://twitter.com/SigTauMOState/status/766145308577435648"
+    },
+    {
+      "sponsor": "Sigma Tau Gamma",
+      "description": "Street Clean Up",
+      "startTime": 1472922000000,
+      "endTime": 1472925600000,
+      "location": "Walmart Neighborhood Market on Campbell",
+      "locationAddress": "444 W Grand St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "https://twitter.com/SigTauMOState/status/766145308577435648"
+    },
+    {
+      "sponsor": "Sigma Tau Gamma",
+      "description": "Sand Volleyball",
+      "startTime": 1473195600000,
+      "endTime": 1473202800000,
+      "location": "Courts behind JQH",
+      "locationAddress": "661 South John Q Hammons Parkway",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "https://twitter.com/SigTauMOState/status/766145308577435648"
+    },
+    {
+      "sponsor": "Sigma Tau Gamma",
+      "description": "Broom Ball",
+      "startTime": 1473289200000,
+      "endTime": 1473292800000,
+      "location": "Mediacom Ice Park",
+      "locationAddress": "635 E Trafficway St",
+      "meetTime": null,
+      "meetLocation": "",
+      "meetLocationAddress": "",
+      "source": "https://twitter.com/SigTauMOState/status/766145308577435648"
     },
     {
       "sponsor": "Sigma Nu",
